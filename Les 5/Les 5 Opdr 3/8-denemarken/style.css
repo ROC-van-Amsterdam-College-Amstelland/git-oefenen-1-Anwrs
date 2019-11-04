@@ -1,0 +1,58 @@
+/* Hier hoef je niks mee te doen */
+*{
+    font-size:0;
+}
+
+#container{
+    width: 900px;
+    height: 600px;
+    background-color: blue;
+    border: 1px solid black;
+}
+
+#links, #midden, #rechts{
+    display: inline-block;
+}
+/* Hieronder kun je gaan editen */
+
+#links1{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+}
+
+#links2{
+    width: 250px;
+    height: 100px;
+    background-color: white;
+}
+
+#links3{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+}
+
+#midden1{
+    width: 100px;
+    height: 600px;
+    background-color: white;
+}
+
+#rechts1{
+    width: 550px;
+    height: 250px;
+    background-color: red;
+}
+
+#rechts2{
+    width: 550px;
+    height: 100px;
+    background-color: white;
+}
+
+#rechts3{
+    width: 550px;
+    height: 250px;
+    background-color: red;
+}

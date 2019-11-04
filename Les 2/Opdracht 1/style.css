@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: teal;
+    font-size: 20px;
+    font-family: "Impact", Charcoal, sans-sherif;
+}
+
+h1  {
+    color: red;
+    
+}
+ol  {
+    color: blue;
+
+}
+
+div   { 
+    background-color: white;
+}
+
+div2    {
+    background-color: grey;
+}
+
+div3    {
+    background-color: plum;
+}
+
+div5 {
+    background-color: peachpuff;
+}
+
+div6 {
+    background-color: olive;
+}

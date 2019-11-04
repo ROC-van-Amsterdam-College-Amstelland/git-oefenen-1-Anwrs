@@ -1,0 +1,87 @@
+body {
+    border: 1px solid none;
+    background-image: url("background.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#main-header, a, li {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+}
+
+ul {
+    display: inline-block;
+    background-color: grey;
+    border: 1px solid white;
+    width: 500px;
+}
+h1 {
+    font-size: 25px;
+    color: silver;
+}
+
+h2 {
+    font-size: 20px;
+    color: crimson;
+}
+
+h4 {
+    font-size: 20px;
+    color: darkgray;
+}
+
+#article1 {
+    border: 1px solid white;
+    padding: 5px;
+    background-color: grey;
+    color: white;
+}
+
+#article2 {
+    border: 1px solid white;
+    padding: 5px;
+    background-color: grey;
+    color: white;
+}
+
+#article3 {
+    border: 1px solid white;
+    padding: 5px;
+    background-color: grey;
+    color: white;
+}
+
+address {
+    width: 120px;
+    border: 1px solid white;
+    background-color: grey;
+    font-size: 20px;
+}
+
+caption {
+    width: 500px;
+    font-size: 30px;
+    color: white;
+}
+
+table {
+    border: 1px solid white;
+    padding: 5px;
+}
+
+th {
+    font-size: 20px;
+    color: white;
+}
+
+td {
+    color: white;
+    font-size: 20px;
+}
+
+li {
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}

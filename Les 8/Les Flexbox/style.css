@@ -1,0 +1,34 @@
+body {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(87, 87, 226);
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    
+}
+
+img {
+    padding: 1px;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+#naamMessi, #naamRonaldo, #naamNeymar, #knopMessi, #knopRonaldo, #knopNeymar {
+    display: flex;
+    justify-content: center;
+    left: 10px;
+    margin: 10px;
+}
+
+#Messi, #Ronaldo, #Neymar {
+    border: 1px solid black;
+    background-color: burlywood;
+}
